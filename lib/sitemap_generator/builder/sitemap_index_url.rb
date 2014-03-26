@@ -1,4 +1,5 @@
 require 'builder'
+require 'builder/xchar'
 
 module SitemapGenerator
   module Builder
